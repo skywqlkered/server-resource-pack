@@ -42,7 +42,7 @@
                 "threshold": 6,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "item/test4"
+                    "model": "item/test"
                 }
             }
         ],

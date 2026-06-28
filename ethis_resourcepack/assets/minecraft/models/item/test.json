@@ -2,8 +2,8 @@
     "format_version": "26.1.2",
     "credit": "Script written by Skywalkered",
     "textures": {
-        "0": "minecraft:item/paintings/test4",
-        "particle": "minecraft:item/paintings/test4"
+        "0": "minecraft:item/paintings/test",
+        "particle": "minecraft:item/paintings/test"
     },
     "elements": [
         {
