@@ -27,7 +27,7 @@ jobs:
       run: |
         rm -f release.zip
         cd ethis_resourcepack
-        zip -r ../../../release.zip .
+        zip -r ../release.zip .
     - name: Commit and push archive
       run: |
         git add release.zip
