@@ -23,6 +23,13 @@
                     "type": "minecraft:model",
                     "model": "item/kingsaga"
                 }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/kingsaga3"
+                }
             }
         ],
         "fallback": {
