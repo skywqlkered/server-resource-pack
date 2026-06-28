@@ -28,7 +28,7 @@
                 "threshold": 4,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "item/kingsaga3"
+                    "model": "item/kingsagapeople"
                 }
             }
         ],
