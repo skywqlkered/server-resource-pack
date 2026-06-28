@@ -31,11 +31,18 @@
                     "model": "item/kingsagapeople"
                 }
             },
-{
+            {
                 "threshold": 5,
                 "model": {
                     "type": "minecraft:model",
                     "model": "item/bobross1"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/test4"
                 }
             }
         ],
