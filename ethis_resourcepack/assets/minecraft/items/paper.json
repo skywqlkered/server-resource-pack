@@ -9,6 +9,13 @@
                     "type": "minecraft:model",
                     "model": "item/dragonfly"
                 }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/hungryking"
+                }
             }
         ],
         "fallback": {
