@@ -72,6 +72,13 @@
                     "type": "minecraft:model",
                     "model": "item/subscribe"
                 }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/subscribe2"
+                }
             }
         ],
         "fallback": {
