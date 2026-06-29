@@ -79,6 +79,13 @@
                     "type": "minecraft:model",
                     "model": "item/subscribe2"
                 }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/ethisplus"
+                }
             }
         ],
         "fallback": {
