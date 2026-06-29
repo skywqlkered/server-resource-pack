@@ -93,6 +93,13 @@
                     "type": "minecraft:model",
                     "model": "item/tommy"
                 }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/shawreaction"
+                }
             }
         ],
         "fallback": {
