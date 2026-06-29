@@ -65,6 +65,13 @@
                     "type": "minecraft:model",
                     "model": "item/eminem"
                 }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/subscribe"
+                }
             }
         ],
         "fallback": {
