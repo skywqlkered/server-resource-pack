@@ -107,6 +107,13 @@
                     "type": "minecraft:model",
                     "model": "item/minecraft"
                 }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/mayorcampaign"
+                }
             }
         ],
         "fallback": {
