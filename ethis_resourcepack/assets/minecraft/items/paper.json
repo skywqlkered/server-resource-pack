@@ -58,6 +58,13 @@
                     "type": "minecraft:model",
                     "model": "item/test6"
                 }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/eminem"
+                }
             }
         ],
         "fallback": {
