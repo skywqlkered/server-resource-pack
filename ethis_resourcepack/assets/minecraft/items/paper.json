@@ -114,6 +114,13 @@
                     "type": "minecraft:model",
                     "model": "item/mayorcampaign"
                 }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/ethismemefunny"
+                }
             }
         ],
         "fallback": {
