@@ -121,6 +121,13 @@
                     "type": "minecraft:model",
                     "model": "item/ethismemefunny"
                 }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/noplus"
+                }
             }
         ],
         "fallback": {
