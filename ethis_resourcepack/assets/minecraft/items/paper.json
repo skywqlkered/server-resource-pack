@@ -135,6 +135,13 @@
                     "type": "minecraft:model",
                     "model": "item/fishtop"
                 }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/fishbottom"
+                }
             }
         ],
         "fallback": {
