@@ -184,6 +184,13 @@
                     "type": "minecraft:model",
                     "model": "item/whiteboard5"
                 }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/whiteboard6"
+                }
             }
         ],
         "fallback": {
