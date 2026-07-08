@@ -1,0 +1,10 @@
+{
+  "enchantment.bagofholding.preservation": "Preservation",
+  "enchantment.bagofholding.preservation.desc": "Prevents a satchel of holding from being lost on death. The enchantment level is reduced by one each time.",
+  "item.bagofholding.golden_bag_of_holding": "Golden Satchel of Holding",
+  "item.bagofholding.iron_bag_of_holding": "Iron Satchel of Holding",
+  "item.bagofholding.leather_bag_of_holding": "Leather Satchel of Holding",
+  "itemGroup.bagofholding.main": "Satchels",
+  "tag.item.bagofholding.bags": "Satchels",
+  "tag.item.bagofholding.recipes_ignore_components": "Recipes Ignore Components"
+}
