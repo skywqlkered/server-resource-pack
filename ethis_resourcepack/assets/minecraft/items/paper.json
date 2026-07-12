@@ -198,6 +198,13 @@
                     "type": "minecraft:model",
                     "model": "item/jonesy"
                 }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/test3"
+                }
             }
         ],
         "fallback": {
