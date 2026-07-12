@@ -205,6 +205,13 @@
                     "type": "minecraft:model",
                     "model": "item/test3"
                 }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/skull"
+                }
             }
         ],
         "fallback": {
