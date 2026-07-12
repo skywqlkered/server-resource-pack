@@ -9,7 +9,15 @@
                     "type": "minecraft:model",
                     "model": "item/shouldercat"
                 }
+            },
+	    {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/shouldercat_armor"
+                }
             }
+	
         ],
         "fallback": {
             "type": "minecraft:model",
