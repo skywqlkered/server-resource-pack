@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/potion",
+    "textures": {
+        "layer0": "item/patriotsshop/speed"
+    }
+}
