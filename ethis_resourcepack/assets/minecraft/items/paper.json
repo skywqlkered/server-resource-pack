@@ -219,6 +219,13 @@
                     "type": "minecraft:model",
                     "model": "item/angry_cat"
                 }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/warmap"
+                }
             }
         ],
         "fallback": {
