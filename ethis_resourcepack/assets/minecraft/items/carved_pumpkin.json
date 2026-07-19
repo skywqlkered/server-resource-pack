@@ -1,9 +1,11 @@
 {
   "model": {
     "type": "minecraft:condition",
-    "property": "minecraft:has_component",
-    "component": "minecraft:custom_data",
-    "ignore_default": true,
+    "property": "minecraft:component",
+    "predicate": "minecraft:custom_data",
+    "value": {
+      "mayor_hat": 1
+    },
     "on_true": {
       "type": "minecraft:model",
       "model": "item/mayor_hat"
