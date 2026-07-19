@@ -5,6 +5,10 @@
     "component": "minecraft:custom_data",
     "ignore_default": true,
     "on_true": {
+      "type": "minecraft:model",
+      "model": "item/mayor_hat"
+    },
+    "on_false": {
       "type": "minecraft:range_dispatch",
       "property": "minecraft:custom_model_data",
       "entries": [
@@ -20,10 +24,6 @@
         "type": "minecraft:model",
         "model": "minecraft:block/carved_pumpkin"
       }
-    },
-    "on_false": {
-      "type": "minecraft:model",
-      "model": "item/mayor_hat"
     }
   }
 }
