@@ -1,19 +1,26 @@
 {
-    "model": {
-        "type": "minecraft:range_dispatch",
-        "property": "minecraft:custom_model_data",
-        "entries": [
-            {
-                "threshold": 1,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "item/guitar"
-                }
-            }
-        ],
-        "fallback": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/stick"
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/guitar"
         }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/mayormicrophone"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/stick"
     }
+  }
 }
