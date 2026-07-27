@@ -247,6 +247,13 @@
                     "type": "minecraft:model",
                     "model": "item/vivianisadopted"
                 }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/vivicorpposter"
+                }
             }
         ],
         "fallback": {
