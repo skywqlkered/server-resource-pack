@@ -240,6 +240,13 @@
                     "type": "minecraft:model",
                     "model": "item/vivianmayor"
                 }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/vivianisadopted"
+                }
             }
         ],
         "fallback": {
