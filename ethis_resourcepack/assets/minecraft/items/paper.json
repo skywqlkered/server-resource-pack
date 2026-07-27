@@ -233,6 +233,13 @@
                     "type": "minecraft:model",
                     "model": "item/poggersmayorposter"
                 }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/vivianmayor"
+                }
             }
         ],
         "fallback": {
