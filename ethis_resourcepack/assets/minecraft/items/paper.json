@@ -226,6 +226,13 @@
                     "type": "minecraft:model",
                     "model": "item/warmap"
                 }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/poggersmayorposter"
+                }
             }
         ],
         "fallback": {
