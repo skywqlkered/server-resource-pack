@@ -40,6 +40,10 @@
 			"rotation": [70, -3, 38],
 			"translation": [-4, 3, 5.25]
 		},
+		"thirdperson_lefthand": {
+			"rotation": [20, -3, 16],
+			"translation": [-4, 4.75, 4]
+		},
 		"fixed": {
 			"rotation": [-45, 0, 0],
 			"translation": [0, -1.75, -8.5],
