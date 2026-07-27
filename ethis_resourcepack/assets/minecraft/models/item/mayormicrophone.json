@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"parent": "stick",
 	"textures": {
@@ -10,6 +11,7 @@
 		{
 			"from": [6, 0, 6],
 			"to": [9, 7, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 7.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 3, 7], "texture": "#0"},
 				"east": {"uv": [3, 0, 6, 7], "texture": "#0"},
@@ -22,6 +24,7 @@
 		{
 			"from": [5, 7, 5],
 			"to": [10, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 7.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 5, 5], "texture": "#1"},
 				"east": {"uv": [0, 5, 5, 10], "texture": "#1"},
@@ -36,6 +39,11 @@
 		"thirdperson_righthand": {
 			"rotation": [70, -3, 38],
 			"translation": [-4, 3, 5.25]
+		},
+		"fixed": {
+			"rotation": [-45, 0, 0],
+			"translation": [0, -1.75, -8.5],
+			"scale": [2, 2, 2]
 		}
 	}
 }
