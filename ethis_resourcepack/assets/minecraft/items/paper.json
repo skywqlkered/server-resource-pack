@@ -254,6 +254,13 @@
                     "type": "minecraft:model",
                     "model": "item/vivicorpposter"
                 }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/uncannykitty"
+                }
             }
         ],
         "fallback": {
