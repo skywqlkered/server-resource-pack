@@ -282,6 +282,13 @@
                     "type": "minecraft:model",
                     "model": "item/hidingvez"
                 }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/vivicorppropaganda"
+                }
             }
         ],
         "fallback": {
