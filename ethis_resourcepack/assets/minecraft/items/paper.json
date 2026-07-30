@@ -261,6 +261,13 @@
                     "type": "minecraft:model",
                     "model": "item/uncannykitty"
                 }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/vezmayorcampaign"
+                }
             }
         ],
         "fallback": {
