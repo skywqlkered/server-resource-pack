@@ -275,6 +275,13 @@
                     "type": "minecraft:model",
                     "model": "item/noaiart"
                 }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/hidingvez"
+                }
             }
         ],
         "fallback": {
