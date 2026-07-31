@@ -289,6 +289,13 @@
                     "type": "minecraft:model",
                     "model": "item/vivicorppropaganda"
                 }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/vivianformayor"
+                }
             }
         ],
         "fallback": {
