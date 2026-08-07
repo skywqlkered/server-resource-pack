@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [64, 32],
-	"texture": "random/armor/diamond_layer_12.png",
+	"texture": "random/entity/equipment/humanoid/diamond2.png",
 	"models": [
 		{
 			"part": "head",
