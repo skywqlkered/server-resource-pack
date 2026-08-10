@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"2": "item/window/window",
-		"particle": "pale_oak_planks"
+		"particle": "block/pale_oak_planks"
 	},
 	"elements": [
 		{
