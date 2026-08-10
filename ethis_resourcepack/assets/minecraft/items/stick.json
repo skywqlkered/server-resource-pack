@@ -16,6 +16,13 @@
           "type": "minecraft:model",
           "model": "item/mayormicrophone"
         }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/window"
+        }
       }
     ],
     "fallback": {
