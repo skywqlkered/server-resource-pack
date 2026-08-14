@@ -296,6 +296,13 @@
                     "type": "minecraft:model",
                     "model": "item/vivianformayor"
                 }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/qwartmayor"
+                }
             }
         ],
         "fallback": {
