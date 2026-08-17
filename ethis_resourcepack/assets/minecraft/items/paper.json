@@ -303,6 +303,13 @@
                     "type": "minecraft:model",
                     "model": "item/qwartmayor"
                 }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/crime"
+                }
             }
         ],
         "fallback": {
