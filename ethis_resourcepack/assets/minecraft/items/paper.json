@@ -310,6 +310,13 @@
                     "type": "minecraft:model",
                     "model": "item/crime"
                 }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/vivicorpwantsyou"
+                }
             }
         ],
         "fallback": {
