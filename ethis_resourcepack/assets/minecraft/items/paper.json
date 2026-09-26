@@ -317,6 +317,13 @@
                     "type": "minecraft:model",
                     "model": "item/vivicorpwantsyou"
                 }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/vivicropwantsyouagain"
+                }
             }
         ],
         "fallback": {
